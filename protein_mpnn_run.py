@@ -464,6 +464,7 @@ if __name__ == "__main__":
     argparser.add_argument("--pssm_bias_flag", type=int, default=0, help="0 for False, 1 for True")
     
     argparser.add_argument("--tied_positions_jsonl", type=str, default='', help="Path to a dictionary with tied positions")
+    argparser.add_argument("--return_embeddings", type=int, default=0, help="0 for False, 1 for True; save embedding of structure"
     
     args = argparser.parse_args()    
     main(args)   
