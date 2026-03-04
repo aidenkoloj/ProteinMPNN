@@ -1,0 +1,1 @@
+1wcw is the structure of Uroporphyrinogen III synthase. Tandem swap protein with low sequence similarity between parent and insert domain
