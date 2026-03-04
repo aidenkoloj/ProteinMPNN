@@ -1,0 +1,1 @@
+Analyze the differences in ProteinMPNN outputs for synCPs
